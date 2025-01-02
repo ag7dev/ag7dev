@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is AG7 / Maggi / NotAG7 and I'm a Hobby Dev from Germany</h1>
+<h1 align="center">Hi 👋! My name is AG7 / Maggi / NotAG7 and I'm a Dev from Germany</h1>
 
 ###
 
@@ -76,22 +76,6 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="200" src="https://media.discordapp.net/attachments/569523084630163466/1094963813343821904/20230409_154459.gif?ex=67047e44&is=67032cc4&hm=1a1d1828750e408b61954620c0e7439619012d05f6f2ac5bae53240eb29c7005&=&width=528&height=527"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="150" src="https://media.discordapp.net/attachments/854565168973742080/988228353024725052/eacdev.gif?ex=670472df&is=6703215f&hm=38ba0619618a82a88a0b5747ee4eff60c28e9b7e0fa4094c3e1f97b6c562fb26&=&width=277&height=600"  />
-</div>
 
 ###
 
