@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is AG7 / Maggi / NotAG7 and I'm a Dev from Germany</h1>
+<h1 align="center">Hi 👋! My name is Maggi and I'm a Dev from Germany</h1>
 
 ###
 
